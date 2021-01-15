@@ -1,6 +1,6 @@
 # Latin60RGB
 
-!https://github.com/latincompass/latin62RGB-keyboard/blob/main/PCB-%20(2).png
+![Latin60rgb](https://github.com/latincompass/latin62RGB-keyboard/blob/main/PCB-%20(1).png)
 
  60% RGB keyboard use IS31FL3733 IC like HHKB
 
